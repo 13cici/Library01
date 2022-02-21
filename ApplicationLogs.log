@@ -1,28 +1,64 @@
-velj 21, 2022 12:59:15 AM Main start
+velj 21, 2022 6:56:29 PM Main start
 INFO: Logger initialised!
-velj 21, 2022 12:59:19 AM Controllers.ScreenController switchToSceneStart
+velj 21, 2022 6:56:34 PM Controllers.ScreenController switchToSceneStart
 INFO: Change start menu scene successfully!
-velj 21, 2022 12:59:33 AM Models.Database.StudentDatabase readDataFromDatabase
-INFO: Student database successfully loaded!
-velj 21, 2022 12:59:33 AM Models.Database.StudentDatabase add
-INFO: Method call!Models.Student@9ed041d
-velj 21, 2022 12:59:33 AM Models.Database.StudentDatabase updateDataInDatabase
-INFO: Student database successfully updated!
-velj 21, 2022 12:59:35 AM Models.Database.ProfessorDatabase readDataFromDatabase
+velj 21, 2022 6:56:35 PM Models.Database.ProfessorDatabase readDataFromDatabase
 INFO: Professor database successfully loaded!
-velj 21, 2022 12:59:35 AM Models.Database.ProfessorDatabase getAllProfessors
+velj 21, 2022 6:56:35 PM Models.Database.ProfessorDatabase getAllProfessors
 INFO: Method call!
-velj 21, 2022 12:59:35 AM Models.Database.BuyerDatabase readDataFromDatabase
+velj 21, 2022 6:56:35 PM Models.Database.BuyerDatabase readDataFromDatabase
 INFO: Buyer database successfully loaded!
-velj 21, 2022 12:59:35 AM Models.Database.BuyerDatabase getAllBuyers
+velj 21, 2022 6:56:35 PM Models.Database.BuyerDatabase getAllBuyers
 INFO: Method call!
-velj 21, 2022 12:59:35 AM Models.Database.StudentDatabase readDataFromDatabase
+velj 21, 2022 6:56:35 PM Models.Database.StudentDatabase readDataFromDatabase
 INFO: Student database successfully loaded!
-velj 21, 2022 12:59:35 AM Models.Database.StudentDatabase getAllStudents
+velj 21, 2022 6:56:35 PM Models.Database.StudentDatabase getAllStudents
 INFO: Method call!
-velj 21, 2022 12:59:35 AM Models.Database.ProfessorDatabase getAllProfessors
+velj 21, 2022 6:56:35 PM Models.Database.ProfessorDatabase getAllProfessors
 INFO: Method call!
-velj 21, 2022 12:59:35 AM Models.Database.BuyerDatabase getAllBuyers
+velj 21, 2022 6:56:35 PM Models.Database.BuyerDatabase getAllBuyers
 INFO: Method call!
-velj 21, 2022 12:59:35 AM Models.Database.StudentDatabase getAllStudents
+velj 21, 2022 6:56:35 PM Models.Database.StudentDatabase getAllStudents
+INFO: Method call!
+velj 21, 2022 6:56:39 PM Models.Database.ProfessorDatabase readDataFromDatabase
+INFO: Professor database successfully loaded!
+velj 21, 2022 6:56:39 PM Models.Database.ProfessorDatabase get
+INFO: Method call!a8cf3918-55e9-4678-8ea5-c5389dd7d486
+velj 21, 2022 6:56:43 PM Models.Database.ProfessorDatabase readDataFromDatabase
+INFO: Professor database successfully loaded!
+velj 21, 2022 6:56:43 PM Models.Database.ProfessorDatabase getAllProfessors
+INFO: Method call!
+velj 21, 2022 6:56:43 PM Models.Database.BuyerDatabase readDataFromDatabase
+INFO: Buyer database successfully loaded!
+velj 21, 2022 6:56:43 PM Models.Database.BuyerDatabase getAllBuyers
+INFO: Method call!
+velj 21, 2022 6:56:43 PM Models.Database.StudentDatabase readDataFromDatabase
+INFO: Student database successfully loaded!
+velj 21, 2022 6:56:43 PM Models.Database.StudentDatabase getAllStudents
+INFO: Method call!
+velj 21, 2022 6:56:43 PM Models.Database.ProfessorDatabase getAllProfessors
+INFO: Method call!
+velj 21, 2022 6:56:43 PM Models.Database.BuyerDatabase getAllBuyers
+INFO: Method call!
+velj 21, 2022 6:56:43 PM Models.Database.StudentDatabase getAllStudents
+INFO: Method call!
+velj 21, 2022 6:56:47 PM Models.Database.ProfessorDatabase readDataFromDatabase
+INFO: Professor database successfully loaded!
+velj 21, 2022 6:56:51 PM Models.Database.ProfessorDatabase readDataFromDatabase
+INFO: Professor database successfully loaded!
+velj 21, 2022 6:56:51 PM Models.Database.ProfessorDatabase getAllProfessors
+INFO: Method call!
+velj 21, 2022 6:56:51 PM Models.Database.BuyerDatabase readDataFromDatabase
+INFO: Buyer database successfully loaded!
+velj 21, 2022 6:56:51 PM Models.Database.BuyerDatabase getAllBuyers
+INFO: Method call!
+velj 21, 2022 6:56:51 PM Models.Database.StudentDatabase readDataFromDatabase
+INFO: Student database successfully loaded!
+velj 21, 2022 6:56:51 PM Models.Database.StudentDatabase getAllStudents
+INFO: Method call!
+velj 21, 2022 6:56:51 PM Models.Database.ProfessorDatabase getAllProfessors
+INFO: Method call!
+velj 21, 2022 6:56:51 PM Models.Database.BuyerDatabase getAllBuyers
+INFO: Method call!
+velj 21, 2022 6:56:51 PM Models.Database.StudentDatabase getAllStudents
 INFO: Method call!

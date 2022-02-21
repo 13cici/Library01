@@ -431,20 +431,20 @@ public class StartMenuController {
 
     // clear up all inputs
     @FXML void clear() {
-        uuidTextFieldProfessor.setText("");
+        uuidTextFieldProfessor.clear();
         firstNameTextFieldProfessor.setText("");
         lastNameTextFieldProfessor.setText("");
         rbProfessorJava.setSelected(false);
         rbProfessorWeb2.setSelected(false);
         dateOfBirthProfessor.getEditor().clear();
 
-        uuidTextFieldBuyer.setText("");
+        uuidTextFieldBuyer.clear();
         firstNameTextFieldBuyer.setText("");
         lastNameTextFieldBuyer.setText("");
         cbHasBought.setSelected(false);
         dateOfBirthBuyer.getEditor().clear();
 
-        uuidTextFieldStudent.setText("");
+        uuidTextFieldStudent.clear();
         firstNameTextFieldStudent.setText("");
         lastNameTextFieldStudent.setText("");
         rbSubscriptionYesStudent.setSelected(false);
