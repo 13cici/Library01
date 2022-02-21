@@ -1,0 +1,28 @@
+velj 21, 2022 12:59:15 AM Main start
+INFO: Logger initialised!
+velj 21, 2022 12:59:19 AM Controllers.ScreenController switchToSceneStart
+INFO: Change start menu scene successfully!
+velj 21, 2022 12:59:33 AM Models.Database.StudentDatabase readDataFromDatabase
+INFO: Student database successfully loaded!
+velj 21, 2022 12:59:33 AM Models.Database.StudentDatabase add
+INFO: Method call!Models.Student@9ed041d
+velj 21, 2022 12:59:33 AM Models.Database.StudentDatabase updateDataInDatabase
+INFO: Student database successfully updated!
+velj 21, 2022 12:59:35 AM Models.Database.ProfessorDatabase readDataFromDatabase
+INFO: Professor database successfully loaded!
+velj 21, 2022 12:59:35 AM Models.Database.ProfessorDatabase getAllProfessors
+INFO: Method call!
+velj 21, 2022 12:59:35 AM Models.Database.BuyerDatabase readDataFromDatabase
+INFO: Buyer database successfully loaded!
+velj 21, 2022 12:59:35 AM Models.Database.BuyerDatabase getAllBuyers
+INFO: Method call!
+velj 21, 2022 12:59:35 AM Models.Database.StudentDatabase readDataFromDatabase
+INFO: Student database successfully loaded!
+velj 21, 2022 12:59:35 AM Models.Database.StudentDatabase getAllStudents
+INFO: Method call!
+velj 21, 2022 12:59:35 AM Models.Database.ProfessorDatabase getAllProfessors
+INFO: Method call!
+velj 21, 2022 12:59:35 AM Models.Database.BuyerDatabase getAllBuyers
+INFO: Method call!
+velj 21, 2022 12:59:35 AM Models.Database.StudentDatabase getAllStudents
+INFO: Method call!
