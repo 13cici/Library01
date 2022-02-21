@@ -22,15 +22,6 @@ public abstract class Person implements Serializable {
         this.yearOfBirth = yearOfBirth;
     }
 
-    // method
-
-    public Boolean checkIfAdult() {
-        if(this.getAge() <= 17) {
-            return false;
-        }
-        return true;
-    }
-
     // getters and setters
     public UUID getUuid() {
         return uuid;
